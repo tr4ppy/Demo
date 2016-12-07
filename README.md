@@ -18,6 +18,6 @@ Captura
 
 <div align="center">
     <center>
-             <img src="/img/captura.jpg" width="200">
+             <img src="/img/captura.png" width="200">
     </center>
 </div>
