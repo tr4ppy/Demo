@@ -1,4 +1,4 @@
-Demo Github y Android
+Demostración Github y Android
 ===
 Este es un pequeño repositorio para probar subir las características de subir un proyecto a GitHub.
 
